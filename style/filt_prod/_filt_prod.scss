@@ -1,0 +1,71 @@
+#filters_prod{
+    height: 72px;
+
+}
+
+#filters_prod .container{
+    padding: 24px 48px;
+    margin: 0px !important;
+    max-width: 2560px !important;
+}
+
+#filters .pad_prod{
+   
+    background-color: #aeaeae;
+}
+
+.gaps_prod_topBl{
+    gap: 36px;
+}
+
+.pad_prod p{
+    margin: 0px !important;
+    padding-right: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color:#2A254B;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.pad_prod svg{
+    margin-top: 4px ;
+    
+}
+
+//mobile
+
+.paddings_sm{
+    padding: 36px 94px;
+    
+}
+
+.button_style_prod_fir{
+    padding-right: 40px;
+}
+
+.button_style_prod_fir p{
+    padding-right: 12px;
+    margin: 0px !important;
+    font-size: 16px;
+    font-weight: 400;
+    color:#2A254B;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.button_style_prod p{
+    padding-right: 12px;
+    margin: 0px !important;
+    font-size: 16px;
+    font-weight: 400;
+    color:#2A254B;
+    font-family: "Red Hat Display", sans-serif;
+
+}
+
+.button_style_prod_fir svg{
+    margin-top: 6px;
+}
+
+.button_style_prod svg{
+    margin-top: 6px;
+}

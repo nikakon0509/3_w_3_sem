@@ -1,0 +1,3336 @@
+#top_mess {
+  background-color: #2A254B;
+  height: 41px !important;
+}
+
+#top_mess .container {
+  padding: 10px 516px !important;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+#top_mess .bi {
+  color: white;
+  margin-top: 3px;
+}
+
+#top_mess p {
+  font-size: 14px;
+  color: white;
+  margin-bottom: 0px !important;
+  line-height: 19px;
+}
+
+.top_m {
+  padding-bottom: 5px;
+}
+
+.navbar .styles {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+#menu_topt .navbar-toggler {
+  border: none !important;
+}
+
+#menu_topt .navbar-toggler-icon {
+  width: 20px !important;
+  height: 22px !important;
+}
+
+#menu_topt .nav-item {
+  text-transform: none;
+  font-family: "Satoshi", sans-serif;
+}
+
+#menu_topt .nav-link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #726E8D;
+}
+
+#menu_topt .container {
+  padding: 5px 28px;
+  margin: 0px 0px !important;
+  max-width: 2560px;
+}
+
+.styles {
+  padding-right: 47px;
+}
+
+.icons {
+  gap: 16px;
+}
+
+.icons a {
+  color: rgb(10, 4, 37);
+}
+
+#bot_nav {
+  background-color: #F9F9F9;
+}
+
+#bot_nav .container {
+  padding: 20px 300px;
+  margin: 0px 0px !important;
+  max-width: 2560px;
+}
+
+.text {
+  gap: 44px;
+}
+
+#bot_nav .text p {
+  margin: 0px !important;
+  color: #726E8D;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+}
+
+#text_bl {
+  height: 246px;
+}
+
+#text_bl .container {
+  padding: 76.2px 369px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+#text_bl .text_style {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  margin: 0px !important;
+  text-align: center;
+  color: #2A254B;
+  line-height: 1.3;
+}
+
+#two_ColsRight {
+  height: 603px;
+  max-width: 2560px;
+}
+
+#two_ColsRight .col_one {
+  height: 603px;
+}
+
+#two_ColsRight .col_two {
+  height: 603px;
+}
+
+#move {
+  padding: 77px 100px 35px 100px;
+}
+
+.butt {
+  padding-top: 176px;
+}
+
+#two_ColsRight .style_but {
+  padding: 16px 32px;
+  border: none !important;
+  background-color: #F9F9F9;
+  color: #2A254B;
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.text_info h3 {
+  color: #2A254B;
+  font-size: 24px;
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 400;
+  margin: 0px !important;
+  padding-bottom: 25px;
+}
+
+.text_info .p1 {
+  margin-bottom: 0px !important;
+  padding-bottom: 25px;
+}
+
+.text_info p {
+  color: #505977;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#tabs {
+  height: 355px;
+}
+
+#tabs .container {
+  padding: 0px 86px 86px 86px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+.gaps_t {
+  gap: 59px;
+  padding-top: 51px;
+}
+
+.gaps {
+  margin-bottom: 16px;
+}
+
+#tabs h2 {
+  padding-top: 86px;
+  color: #2A254B;
+  font-style: 24px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#tabs .bi {
+  color: #2A254B;
+}
+
+#tabs h4 {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 20px;
+}
+
+#tabs p {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+}
+
+#tabs_abUs {
+  height: 456.4px;
+}
+
+#tabs_abUs .container {
+  padding: 0px 86px 56px 86px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+.gaps_t {
+  gap: 59px;
+  padding-top: 51px;
+}
+
+.gaps {
+  margin-bottom: 16px;
+}
+
+#tabs_abUs h2 {
+  padding-top: 86px;
+  color: #2A254B;
+  font-style: 24px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#tabs_abUs .bi {
+  color: #2A254B;
+}
+
+#tabs_abUs h4 {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 20px;
+}
+
+#tabs_abUs p {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+}
+
+#tabs_abUs .fon {
+  background-color: #F9F9F9;
+  padding: 48px;
+}
+
+.gaps_t_abUS {
+  gap: 18px;
+  padding-top: 36px;
+}
+
+#tabs_two {
+  height: 355px;
+}
+
+#tabs_two .container {
+  padding: 0px 86px 86px 86px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+.gaps_t {
+  gap: 59px;
+  padding-top: 51px;
+}
+
+.gaps {
+  margin-bottom: 16px;
+}
+
+#tabs_two h2 {
+  padding-top: 36px;
+  color: #2A254B;
+  font-style: 24px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#tabs_two .bi {
+  color: #2A254B;
+}
+
+#tabs_two h4 {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 20px;
+}
+
+#tabs_two p {
+  color: #2A254B;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+}
+
+#forms {
+  height: 474.4px;
+  background-image: url("../../image_index/fon_form.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+#forms .container {
+  padding: 97px 473px 97px 473px;
+  margin: 0px !important;
+  max-width: 2560px !important;
+}
+
+#forms h2 {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+#forms p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-bottom: 54px;
+  text-align: center;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.checkedd {
+  gap: 36px;
+}
+
+#forms label {
+  color: white;
+}
+
+#forms input#createaccount:checked {
+  background-color: #2A254B;
+}
+
+#forms input#createaccount {
+  position: relative;
+  margin-left: 4px;
+  width: 16px;
+  float: left;
+  margin: 4px 10px 4px 1px;
+  height: 16px;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ffffff;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.email_section {
+  padding-top: 40px;
+}
+
+.email_section input {
+  padding: 17px 180px 17px 32px;
+  border: none;
+}
+
+.email_section input::-moz-placeholder {
+  color: rgb(201, 201, 201);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.email_section input::placeholder {
+  color: rgb(201, 201, 201);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.email_section .buttt {
+  padding: 16px 27px;
+  background-color: #2A254B;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#forms_two {
+  height: 474.4px;
+  background-color: #eeeeee;
+  background-size: cover;
+  background-position: center;
+}
+
+#forms_two .container {
+  padding: 97px 473px 97px 473px;
+  margin: 0px !important;
+  max-width: 2560px !important;
+}
+
+#forms_two h2 {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+#forms_two p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-bottom: 54px;
+  text-align: center;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.checkedd {
+  gap: 36px;
+}
+
+#forms_two label {
+  color: rgb(0, 0, 0);
+}
+
+#forms_two input#createaccount:checked {
+  background-color: #253849;
+}
+
+#forms_two input#createaccount {
+  position: relative;
+  margin-left: 4px;
+  width: 16px;
+  float: left;
+  margin: 4px 10px 4px 1px;
+  height: 16px;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #000000;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.email_section {
+  padding-top: 40px;
+}
+
+.email_section input {
+  padding: 17px 180px 17px 32px;
+  border: none;
+}
+
+.email_section input::-moz-placeholder {
+  color: rgb(201, 201, 201);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.email_section input::placeholder {
+  color: rgb(201, 201, 201);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.email_section .buttt {
+  padding: 16px 27px;
+  background-color: #2A254B;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#footer {
+  height: 430px;
+  background-color: #2A254B;
+}
+
+#footer .container {
+  padding: 58px 82px 0 83px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+#footer .gapss {
+  gap: 109px;
+}
+
+#footer .text_main p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  padding-bottom: 15px;
+  margin: 0px !important;
+}
+
+#footer .text_main ul {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  text-decoration: none;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+#footer li {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  list-style-type: none;
+}
+
+.email_sec input {
+  padding: 17px 360px 17px 32px;
+  border: none;
+  background-color: #4A4566;
+}
+
+.email_sec input::-moz-placeholder {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  color: #fdfdfd;
+}
+
+.email_sec input::placeholder {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  color: #fdfdfd;
+}
+
+.email_sec .buttt_t {
+  padding: 8px 18px;
+  background-color: #ffffff;
+  color: #2A254B;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#footer .hr {
+  border-top: #4E4D93 solid 4px;
+  margin: 0px !important;
+}
+
+.pad_div {
+  padding-top: 79px;
+}
+
+#footer .style_text {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#footer .paddings {
+  padding-top: 33px;
+}
+
+#footer .gaps_icon {
+  gap: 24px;
+}
+
+.text_main li {
+  padding-bottom: 10px;
+}
+
+#main_banner {
+  height: 703px;
+  background-image: url("../../about_us/fon.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+#main_banner .container {
+  padding: 130px 80px 130px 730px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+#main_banner .info_part {
+  padding: 46px 56px;
+  background-color: #fff;
+}
+
+#main_banner .text_infa h2 {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .text_infa p {
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .style_b {
+  border: none;
+  padding: 16px 32px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2A254B;
+  background-color: #F9F9F9;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .button_ab_us {
+  padding-top: 173px !important;
+}
+
+#products_few {
+  height: 662px;
+}
+
+#products_few .container {
+  margin: 0px !important;
+  padding: 28px 80px 0px 80px;
+  max-width: 2560px !important;
+}
+
+#products_few .main_div {
+  gap: 20px;
+}
+
+#products_few .gaps_cards {
+  gap: 20px;
+}
+
+.info h5 {
+  padding-top: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+  padding-bottom: 8px;
+}
+
+.info p {
+  margin: 0px !important;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+}
+
+#products_few .button_collection {
+  padding: 16px 32px;
+  background-color: rgb(236, 236, 236);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  border: none;
+}
+
+#products_few .gap_but_colection {
+  padding: 64px 553px 56px 553px;
+}
+
+#products_few_2_0 {
+  height: 500px;
+}
+
+#products_few_2_0 .container {
+  margin: 0px !important;
+  padding: 28px 80px 0px 80px;
+  max-width: 2560px !important;
+}
+
+#products_few_2_0 .main_div {
+  gap: 58px;
+}
+
+#products_few_2_0 .gaps_cards {
+  gap: 58px;
+}
+
+.info h5 {
+  padding-top: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+  padding-bottom: 8px;
+}
+
+.info p {
+  margin: 0px !important;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+}
+
+#products_few_2_0 .button_collection {
+  padding: 16px 32px;
+  background-color: rgb(236, 236, 236);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  border: none;
+}
+
+#products_few_2_0 .gap_but_colection {
+  padding: 64px 553px 56px 553px;
+}
+
+#products_few_3_0 {
+  height: 662px;
+}
+
+#products_few_3_0 .container {
+  margin: 0px !important;
+  padding: 28px 80px 0px 80px;
+  max-width: 2560px !important;
+}
+
+#products_few_3_0 .main_div {
+  gap: 20px;
+}
+
+#products_few_3_0 .gaps_cards {
+  gap: 20px;
+}
+
+.info h5 {
+  padding-top: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+  padding-bottom: 8px;
+}
+
+.info p {
+  margin: 0px !important;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+}
+
+#products_few_3_0 .button_collection {
+  padding: 16px 32px;
+  background-color: rgb(236, 236, 236);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  border: none;
+}
+
+#products_few_3_0 .gap_but_colection {
+  padding: 64px 0 64px 0;
+}
+
+#products_few_item {
+  height: 600px;
+}
+
+#products_few_item .container {
+  margin: 0px !important;
+  padding: 28px 80px 0px 80px;
+  max-width: 2560px !important;
+}
+
+#products_few_item .main_div {
+  gap: 20px;
+}
+
+#products_few_item .gaps_cards {
+  gap: 20px;
+}
+
+.info h5 {
+  padding-top: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+  padding-bottom: 8px;
+}
+
+.info p {
+  margin: 0px !important;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+}
+
+#products_few_item .button_collection {
+  padding: 16px 32px;
+  background-color: rgb(236, 236, 236);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  border: none;
+}
+
+#products_few_item .gap_but_colection {
+  padding: 64px 553px 56px 553px;
+}
+
+#products_few_item .zagol {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #2A254B;
+  padding: 30px 0px;
+  margin: 0px !important;
+}
+
+#armchair {
+  height: 600px;
+}
+
+#armchair .container {
+  margin: 0px !important;
+  padding: 28px 80px 0px 80px;
+  max-width: 2560px;
+}
+
+#armchair .height_col2 img {
+  height: 513.4px;
+  width: 635px;
+}
+
+#armchair .main_gap {
+  gap: 10px;
+}
+
+#width_col {
+  width: 634px !important;
+}
+
+#armchair .move_div {
+  padding: 64px;
+}
+
+.move_div h2 {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  padding-bottom: 12px;
+}
+
+.move_div p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.button_div {
+  padding-top: 205px;
+}
+
+.button_div button {
+  background-color: rgba(249, 249, 249, 0.1490196078);
+  padding: 16px 32px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  padding-bottom: 12px;
+  border: none;
+  color: white;
+}
+
+#top_bl_prod {
+  height: 209px;
+  background-image: url("../../product_image/fon.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#top_bl_prod .container {
+  margin: 0px !important;
+  padding: 128px 1154px 36px 80px;
+  max-width: 2560px !important;
+}
+
+.text_info_prod h1 {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  color: #ffffff;
+  margin: 0px !important;
+}
+
+#filters_prod {
+  height: 72px;
+}
+
+#filters_prod .container {
+  padding: 24px 48px;
+  margin: 0px !important;
+  max-width: 2560px !important;
+}
+
+#filters .pad_prod {
+  background-color: #aeaeae;
+}
+
+.gaps_prod_topBl {
+  gap: 36px;
+}
+
+.pad_prod p {
+  margin: 0px !important;
+  padding-right: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2A254B;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.pad_prod svg {
+  margin-top: 4px;
+}
+
+.paddings_sm {
+  padding: 36px 94px;
+}
+
+.button_style_prod_fir {
+  padding-right: 40px;
+}
+
+.button_style_prod_fir p {
+  padding-right: 12px;
+  margin: 0px !important;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2A254B;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.button_style_prod p {
+  padding-right: 12px;
+  margin: 0px !important;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2A254B;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.button_style_prod_fir svg {
+  margin-top: 6px;
+}
+
+.button_style_prod svg {
+  margin-top: 6px;
+}
+
+#item {
+  height: 780px;
+  background-color: #eeeeee;
+}
+
+#item .container {
+  padding: 50px 80px;
+  margin: 0px !important;
+  max-width: 2560px;
+}
+
+#item .move_block {
+  padding: 25px 0px 25px 65px;
+}
+
+.zagolovok h2 {
+  font-size: 36px;
+  font-weight: 300;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+}
+
+.zagolovok p {
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+}
+
+.horizontal {
+  width: 518px;
+  border-top: #c9c6d1 2px solid;
+}
+
+.main_text h5 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+  padding-bottom: 14px;
+}
+
+.main_text p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+}
+
+.tabel {
+  padding-bottom: 40px;
+}
+
+.tabel h5 {
+  padding-top: 36px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+}
+
+.main_tabel p {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+}
+
+.vertical {
+  height: 44px;
+  border-left: 2px solid #c9c6d1;
+  margin: 8px 50px 8px 50px;
+}
+
+.text_table {
+  padding-top: 24px;
+}
+
+.input_block {
+  padding-bottom: 48px;
+}
+
+.input_block p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+}
+
+.imitation_button {
+  padding: 12px 16px;
+  background-color: #fff;
+  width: 122px;
+}
+
+.imitation_button p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Satoshi", sans-serif;
+  color: #2A254B;
+  margin: 0px !important;
+}
+
+.imitation_button svg {
+  margin-top: 6px;
+  color: #b8b8b8;
+}
+
+.button1 {
+  padding: 16px 32px;
+  background-color: #2A254B;
+  border: none;
+  color: white;
+  font-weight: 300;
+  font-family: "Satoshi", sans-serif;
+}
+
+.buttons {
+  gap: 16px;
+}
+
+.button2 {
+  padding: 16px 32px;
+  background-color: #ffffff;
+  border: none;
+  color: rgb(0, 0, 0);
+  font-weight: 300;
+  font-family: "Satoshi", sans-serif;
+}
+
+#cart_body {
+  height: 725.4px;
+}
+
+#cart_body .container {
+  padding: 50px 188px 40px 188px;
+  margin: 0px !important;
+  max-width: 2560px !important;
+}
+
+#cart_body h2 {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-bottom: 48px;
+  text-align: center;
+  color: #2A254B;
+}
+
+#cart_body .td1 {
+  width: 350px;
+  height: 151.4px;
+}
+
+.table th {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  color: #2A254B !important;
+}
+
+.pad_colon {
+  padding: 12px 21px;
+}
+
+.pad_colon h4 {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  color: #2A254B;
+}
+
+.pad_colon .p1 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  color: #2A254B;
+  padding: 8px 0;
+}
+
+.pad_colon .p2 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  color: #2A254B;
+}
+
+#cart_body .td2 {
+  width: 620px;
+  height: 151.4px;
+}
+
+#cart_body .td3 {
+  width: 80px;
+  height: 151.4px;
+}
+
+.move_td2 {
+  padding: 56px 0;
+}
+
+.move_td2 p {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  color: #2A254B;
+}
+
+.subtotal {
+  padding-top: 28px;
+}
+
+.style_b {
+  padding: 16px 32px;
+  background-color: #2A254B;
+  color: white;
+  border: none;
+}
+
+.p3 {
+  padding: 15px 0;
+  margin: 0px !important;
+  color: #4E4D93;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.subtotal h4 {
+  color: #4E4D93;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+}
+
+.subtotal span {
+  color: #2A254B;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "Red Hat Display", sans-serif;
+  margin: 0px !important;
+  padding-left: 10px;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+#register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("../../register_image/fon.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wrapper_reg {
+  width: 420px;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  -webkit-backdrop-filter: blur(20px);
+          backdrop-filter: blur(20px);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  color: white;
+  border-radius: 10px;
+  padding: 30px 40px;
+}
+
+.wrapper_reg h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.wrapper_reg .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 40px;
+  font-size: 16px;
+  color: white;
+  padding: 20px 45px 20px 20px;
+}
+
+.input-box input::-moz-placeholder {
+  color: white;
+}
+
+.input-box input::placeholder {
+  color: white;
+}
+
+.input-box i {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+}
+
+.wrapper_reg .remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14.5px;
+  margin: -15px 0 15px;
+}
+
+.remember-forgot label input {
+  accent-color: white;
+  margin-right: 3px;
+}
+
+.remember-forgot a {
+  color: white;
+  text-decoration: none;
+}
+
+.remember-forgot a:hover {
+  text-decoration: underline;
+}
+
+.wrapper_reg .btn {
+  width: 100%;
+  height: 45px;
+  background: white;
+  padding-top: 10px;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+}
+
+.wrapper_reg .register-link {
+  font-size: 14.5px;
+  text-align: center;
+  margin: 20px 0 15px;
+}
+
+.register-link p a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.register-link p a:hover {
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url(../font/Satoshi-Medium.ttf);
+}
+@media (min-width: 1441px) {
+  #filters_prod .cont_sm {
+    display: none;
+  }
+  #armchair .height_col2 img {
+    height: 513.4px;
+    width: 695px;
+  }
+  #products_few_3_0 {
+    height: 700px !important;
+  }
+  #products_few_3_0 .main_div {
+    gap: 58px;
+  }
+  #products_few_3_0 .gaps_cards {
+    gap: 58px;
+  }
+  #top_mess .container {
+    padding: 10px 550px !important;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #products_few .gap_but_colection {
+    padding: 64px 590px 56px 590px;
+  }
+  #products_few .gaps_cards {
+    gap: 44px;
+  }
+  #products_few .main_div {
+    gap: 44px;
+  }
+}
+@media (max-width: 1440px) {
+  #filters_prod .cont_sm {
+    display: none;
+  }
+  #products_few_2_0 .main_div {
+    gap: 20px;
+  }
+  #products_few_2_0 .gaps_cards {
+    gap: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  #top_mess {
+    background-color: #2A254B;
+    height: 41px !important;
+  }
+  #top_mess .container {
+    padding: 10px 316px !important;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #top_mess p {
+    font-size: 13px;
+  }
+  #menu_topt .nav-link {
+    font-weight: 400;
+    font-size: 14px;
+    color: #726E8D;
+  }
+  #bot_nav .container {
+    padding: 20px 20px;
+    margin: 0px 0px !important;
+    max-width: 1440px;
+  }
+  .text {
+    gap: 35px;
+  }
+  #bot_nav .text p {
+    margin: 0px !important;
+    color: #726E8D;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Satoshi", sans-serif;
+  }
+  #text_bl .container {
+    padding: 67px 250px;
+  }
+  #text_bl .text_style {
+    font-size: 30px;
+  }
+  #two_ColsRight {
+    height: 450px;
+  }
+  #two_ColsRight .col_one {
+    height: 450px;
+  }
+  #two_ColsRight .col_two {
+    height: 450px;
+  }
+  #move {
+    padding: 57px 60px 20px 60px;
+  }
+  .butt {
+    padding-top: 110px;
+  }
+  #two_ColsRight .style_but {
+    padding: 13px 29px;
+    font-size: 14px;
+  }
+  .text_info h3 {
+    color: #2A254B;
+    font-size: 21px;
+  }
+  .text_info .p1 {
+    margin-bottom: 0px !important;
+    padding-bottom: 25px;
+  }
+  .text_info p {
+    color: #505977;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs {
+    height: 355px;
+  }
+  #tabs .container {
+    padding: 0px 57px 86px 57px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  .gaps_t {
+    gap: 59px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 16px;
+  }
+  #tabs h2 {
+    padding-top: 86px;
+    color: #2A254B;
+    font-style: 22px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs .bi {
+    color: #2A254B;
+  }
+  #tabs h4 {
+    color: #2A254B;
+    font-weight: 500;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 18px;
+  }
+  #tabs p {
+    color: #2A254B;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 14px;
+  }
+  #tabs_two {
+    height: 355px;
+  }
+  #tabs_two .container {
+    padding: 0px 57px 86px 57px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  .gaps_t {
+    gap: 59px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 16px;
+  }
+  #tabs_two h2 {
+    padding-top: 86px;
+    color: #2A254B;
+    font-style: 22px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs_two .bi {
+    color: #2A254B;
+  }
+  #tabs_two h4 {
+    color: #2A254B;
+    font-weight: 500;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 18px;
+  }
+  #tabs_two p {
+    color: #2A254B;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 14px;
+  }
+  #forms {
+    height: 474.4px;
+    background-image: url("../../image_index/fon_form.jpeg");
+    background-size: cover;
+    background-position: center;
+  }
+  #forms .container {
+    padding: 97px 293px 97px 293px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms h2 {
+    font-size: 26px;
+  }
+  #forms p {
+    font-size: 15px;
+  }
+  .checkedd {
+    gap: 28px;
+  }
+  .email_section input {
+    padding: 14px 160px 13px 32px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 16px 13px 16px 13.5px;
+    font-size: 13px;
+  }
+  #forms_two {
+    height: 474.4px;
+  }
+  #forms_two .container {
+    padding: 97px 293px 97px 293px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms_two h2 {
+    font-size: 26px;
+  }
+  #forms_two p {
+    font-size: 15px;
+  }
+  .checkedd {
+    gap: 28px;
+  }
+  .email_section input {
+    padding: 14px 160px 13px 32px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 16px 13px 16px 13.5px;
+    font-size: 13px;
+  }
+  #footer {
+    height: 400px;
+    background-color: #2A254B;
+  }
+  #footer .container {
+    padding: 58px 53px 0 53px;
+  }
+  #footer .gapss {
+    gap: 60px;
+  }
+  #footer .text_main p {
+    font-size: 16px;
+  }
+  #footer .text_main ul {
+    font-size: 12px;
+  }
+  #footer li {
+    font-size: 12px;
+  }
+  .email_sec input {
+    padding: 12px 180px 12px 32px;
+  }
+  .email_sec input::-moz-placeholder {
+    font-size: 13px;
+  }
+  .email_sec input::placeholder {
+    font-size: 13px;
+  }
+  .email_sec .buttt_t {
+    padding: 6px 11px;
+    font-size: 13px;
+  }
+  #footer .hr {
+    border-top: #4E4D93 solid 3px;
+    margin: 0px !important;
+  }
+  #footer .style_text {
+    font-size: 12px;
+  }
+  #footer .paddings {
+    padding-top: 33px;
+  }
+  #footer .gaps_icon {
+    gap: 24px;
+  }
+  .text_main li {
+    padding-bottom: 10px;
+  }
+  #footer .bi {
+    width: 16px;
+    height: 16px;
+  }
+  #main_banner {
+    height: 508px;
+  }
+  #main_banner .container {
+    padding: 80px 80px 80px 530px;
+  }
+  #main_banner .info_part {
+    padding: 36px 46px;
+  }
+  #main_banner .text_infa h2 {
+    font-size: 22px;
+  }
+  #main_banner .text_infa p {
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  #main_banner .style_b {
+    padding: 10px 22px;
+    font-size: 13px;
+  }
+  #main_banner .button_ab_us {
+    padding-top: 113px !important;
+  }
+  #tabs .fon {
+    background-color: #F9F9F9;
+    padding: 22px;
+  }
+  .gaps_t_abUS {
+    gap: 15px;
+    padding-top: 36px;
+  }
+  #tabs_abUs {
+    height: 427.3px;
+  }
+  #tabs_abUs .container {
+    padding: 46px 36px 46px 36px;
+  }
+  .gaps_t {
+    gap: 59px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 16px;
+  }
+  #tabs_abUs h2 {
+    font-style: 20px;
+    padding-top: 36px;
+  }
+  #tabs_abUs h4 {
+    color: #2A254B;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 14px;
+  }
+  #tabs_abUs p {
+    color: #2A254B;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
+  }
+  #tabs_abUs .fon {
+    background-color: #F9F9F9;
+    padding: 28px;
+  }
+  #products_few .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #products_few .zagol {
+    font-size: 26px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color: #2A254B;
+    padding: 40px 0px;
+    margin: 0px !important;
+  }
+  #products_few .main_div {
+    gap: 30px;
+  }
+  #products_few .gaps_cards {
+    gap: 30px;
+  }
+  .info img {
+    width: 215px;
+    height: 285px;
+  }
+  .info h5 {
+    font-size: 16px;
+  }
+  .info p {
+    font-size: 13px;
+  }
+  #products_few .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #products_few .gap_but_colection {
+    padding: 64px 397px 56px 397px;
+  }
+  #products_few_item {
+    height: 490px;
+  }
+  #products_few_item .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #products_few_item .zagol {
+    font-size: 26px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color: #2A254B;
+    padding: 40px 0px;
+    margin: 0px !important;
+  }
+  #products_few_item .main_div {
+    gap: 30px;
+  }
+  #products_few_item .gaps_cards {
+    gap: 30px;
+  }
+  .info img {
+    width: 215px;
+    height: 285px;
+  }
+  .info h5 {
+    font-size: 16px;
+  }
+  .info p {
+    font-size: 13px;
+  }
+  #products_few_item .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #products_few_item .gap_but_colection {
+    padding: 64px 397px 56px 397px;
+  }
+  #armchair {
+    height: 500px;
+  }
+  #armchair .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #armchair .main_gap {
+    gap: 14px;
+  }
+  .height_text {
+    height: 420px;
+  }
+  #armchair .height_col2 img {
+    height: 420px !important;
+    width: 469px !important;
+  }
+  #armchair .move_div {
+    padding: 56px;
+  }
+  .move_div h2 {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    padding-bottom: 12px;
+  }
+  .move_div p {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .button_div {
+    padding-top: 160px;
+  }
+  .button_div button {
+    background-color: rgba(249, 249, 249, 0.1490196078);
+    padding: 12px 28px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    padding-bottom: 12px;
+    border: none;
+    color: white;
+  }
+  #products_few_3_0 .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px !important;
+  }
+  #products_few_3_0 .gaps_cards {
+    gap: 30px;
+  }
+  #top_bl_prod {
+    height: 209px;
+  }
+  #top_bl_prod .container {
+    margin: 0px !important;
+    padding: 140px 700px 36px 80px;
+  }
+  .text_info_prod h1 {
+    font-size: 28px;
+  }
+  #filters_prod .cont_sm {
+    display: none;
+  }
+  #filters_prod {
+    height: 72px;
+  }
+  #filters_prod .container {
+    padding: 24px 48px;
+    margin: 0px !important;
+    max-width: 2560px !important;
+  }
+  #filters .pad_prod {
+    background-color: #aeaeae;
+  }
+  .gaps_prod_topBl {
+    gap: 36px;
+  }
+  .pad_prod p {
+    margin: 0px !important;
+    padding-right: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #2A254B;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .pad_prod svg {
+    margin-top: 4px;
+  }
+  #products_few_2_0 {
+    height: 400px;
+  }
+  .pad_sm {
+    height: 560px !important;
+  }
+  #products_few_2_0 .main_div {
+    gap: 30px;
+  }
+  #products_few_2_0 .gaps_cards {
+    gap: 30px;
+  }
+  #products_few_2_0 .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px !important;
+  }
+  #products_few_2_0 .gap_but_colection {
+    padding: 64px 397px 56px 397px;
+  }
+  #products_few_2_0 .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #filters_prod .cont_sm {
+    display: none;
+  }
+  #filters_prod {
+    height: 72px;
+  }
+  #filters_prod .container {
+    padding: 24px 38px;
+    margin: 0px !important;
+    max-width: 2560px !important;
+  }
+  #filters .pad_prod {
+    background-color: #aeaeae;
+  }
+  .gaps_prod_topBl {
+    gap: 36px;
+  }
+  .pad_prod p {
+    margin: 0px !important;
+    padding-right: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #2A254B;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .pad_prod svg {
+    margin-top: 4px;
+    width: 14px;
+    height: 14px;
+  }
+  #item {
+    height: 700px;
+  }
+  #item .container {
+    padding: 50px 50px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  .sizes {
+    width: 500px;
+    height: 600px;
+  }
+  .text_item {
+    width: 450px;
+  }
+  #item .move_block {
+    padding: 23px 0px 23px 35px;
+  }
+  .zagolovok h2 {
+    font-size: 28px;
+  }
+  .zagolovok p {
+    font-size: 20px;
+  }
+  .horizontal {
+    width: 318px;
+    border-top: #c9c6d1 2px solid;
+  }
+  .main_text h5 {
+    font-size: 13px;
+    padding-bottom: 14px;
+  }
+  .main_text p {
+    font-size: 13px;
+  }
+  .tabel {
+    padding-bottom: 30px;
+  }
+  .tabel h5 {
+    padding-top: 36px;
+    font-size: 13px;
+  }
+  .main_tabel p {
+    font-size: 13px;
+  }
+  .vertical {
+    height: 44px;
+    border-left: 2px solid #c9c6d1;
+    margin: 30px 50px 8px 50px;
+  }
+  .text_table {
+    padding-top: 24px;
+  }
+  .input_block {
+    padding-bottom: 38px;
+  }
+  .input_block p {
+    font-size: 13px;
+  }
+  .imitation_button {
+    padding: 12px 16px;
+    background-color: #fff;
+    width: 122px;
+  }
+  .imitation_button p {
+    font-size: 13px;
+  }
+  .imitation_button svg {
+    margin-top: 6px;
+    color: #b8b8b8;
+  }
+  .button1 {
+    padding: 13px 29px;
+    font-size: 13px;
+  }
+  .buttons {
+    gap: 16px;
+  }
+  .button2 {
+    padding: 13px 29px;
+    font-size: 13px;
+  }
+  #cart_body {
+    height: 697px;
+  }
+  #cart_body .container {
+    padding: 50px 100px 40px 100px;
+    margin: 0px !important;
+    max-width: 2560px !important;
+  }
+  #cart_body h2 {
+    font-size: 28px;
+  }
+  .table th {
+    font-size: 18px;
+  }
+  .pad_colon h4 {
+    font-size: 18px;
+  }
+  .pad_colon .p1 {
+    font-size: 12px;
+  }
+  .pad_colon .p2 {
+    font-size: 14px;
+  }
+  .move_td2 p {
+    font-size: 18px;
+  }
+  .style_b {
+    padding: 14px 30px;
+    font-size: 14px;
+  }
+  .p3 {
+    font-size: 12px;
+  }
+}
+@media (max-width: 768px) {
+  .wrapper_reg {
+    width: 320px;
+    height: 350px;
+  }
+  .wrapper_reg h1 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .wrapper_reg .input-box {
+    position: relative;
+    width: 100%;
+    height: 20px;
+    margin: 30px 0;
+  }
+  .input-box input {
+    font-size: 13px;
+    padding: 20px 45px 20px 20px;
+  }
+  .input-box i {
+    position: absolute;
+    padding-top: 23px;
+    font-size: 18px;
+  }
+  .wrapper_reg .remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: 10px 0 20px;
+  }
+  .wrapper_reg .btn {
+    padding-top: 10px;
+  }
+  #top_mess {
+    background-color: #2A254B;
+    height: 41px !important;
+  }
+  #top_mess .container {
+    padding: 10px 205px !important;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #top_mess p {
+    font-size: 12px;
+  }
+  #top_mess .bi {
+    width: 13px;
+    height: 13px;
+  }
+  #text_bl {
+    height: 186px;
+  }
+  #text_bl .container {
+    padding: 67px 200px;
+  }
+  #text_bl .text_style {
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 20px;
+  }
+  #two_ColsRight {
+    height: 350px;
+  }
+  #two_ColsRight .col_one {
+    height: 350px;
+  }
+  #two_ColsRight .col_two {
+    height: 350px;
+  }
+  #move {
+    padding: 47px 50px 26px 50px;
+  }
+  .butt {
+    padding-top: 60px;
+  }
+  #two_ColsRight .style_but {
+    padding: 8px 24px;
+    font-size: 11px;
+  }
+  .text_info h3 {
+    color: #2A254B;
+    font-size: 18px;
+  }
+  .text_info .p1 {
+    margin-bottom: 0px !important;
+    padding-bottom: 25px;
+  }
+  .text_info p {
+    color: #505977;
+    font-size: 10px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs {
+    height: 355px;
+  }
+  #tabs .container {
+    padding: 0px 47px 86px 57px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  .gaps_t {
+    gap: 30px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 14px;
+  }
+  #tabs h2 {
+    padding-top: 86px;
+    color: #2A254B;
+    font-style: 20px;
+  }
+  #tabs .bi {
+    color: #2A254B;
+    width: 16px;
+    height: 16px;
+  }
+  #tabs h4 {
+    font-size: 14px;
+  }
+  #tabs p {
+    font-size: 11px;
+  }
+  #tabs_two {
+    height: 355px;
+  }
+  #tabs_two .container {
+    padding: 0px 47px 86px 57px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  .gaps_t {
+    gap: 30px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 14px;
+  }
+  #tabs_two h2 {
+    padding-top: 46px;
+    color: #2A254B;
+    font-style: 20px;
+  }
+  #tabs_two .bi {
+    color: #2A254B;
+    width: 16px;
+    height: 16px;
+  }
+  #tabs_two h4 {
+    font-size: 14px;
+  }
+  #tabs_two p {
+    font-size: 11px;
+  }
+  #forms {
+    height: 438.4px;
+    background-image: url("../../image_index/fon_form.jpeg");
+    background-size: cover;
+    background-position: center;
+  }
+  #forms .container {
+    padding: 97px 193px 97px 193px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms h2 {
+    font-size: 22px;
+  }
+  #forms p {
+    font-size: 13px;
+  }
+  .checkedd {
+    gap: 20px;
+  }
+  #forms input#createaccount {
+    height: 13px;
+    width: 13px;
+  }
+  #forms label {
+    font-size: 14px;
+  }
+  .email_section input {
+    padding: 14px 120px 14px 22px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 9px 13px 9px 13.5px;
+    font-size: 11px;
+  }
+  #forms_two {
+    height: 438.4px;
+  }
+  #forms_two .container {
+    padding: 97px 193px 97px 193px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms_two h2 {
+    font-size: 22px;
+  }
+  #forms_two p {
+    font-size: 13px;
+  }
+  .checkedd {
+    gap: 20px;
+  }
+  #forms_two input#createaccount {
+    height: 13px;
+    width: 13px;
+  }
+  #forms_two label {
+    font-size: 14px;
+  }
+  .email_section input {
+    padding: 14px 120px 14px 22px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 9px 13px 9px 13.5px;
+    font-size: 11px;
+  }
+  #footer {
+    height: 420px;
+    background-color: #2A254B;
+  }
+  #footer .container {
+    padding: 58px 53px 0 53px;
+  }
+  #footer .gapss {
+    gap: 50px;
+  }
+  #footer .text_main p {
+    font-size: 13px;
+  }
+  #footer .text_main ul {
+    font-size: 11px;
+  }
+  #footer li {
+    font-size: 11px;
+  }
+  .email_sec input {
+    padding: 10px 50px 12px 22px;
+  }
+  .email_sec input::-moz-placeholder {
+    font-size: 11px;
+  }
+  .email_sec input::placeholder {
+    font-size: 11px;
+  }
+  .email_sec .buttt_t {
+    padding: 6px 5px;
+    font-size: 10px;
+    width: 70px;
+  }
+  #footer .hr {
+    border-top: #4E4D93 solid 3px;
+    margin: 0px !important;
+  }
+  #footer .style_text {
+    font-size: 12px;
+  }
+  #footer .paddings {
+    padding-top: 25px;
+  }
+  #footer .gaps_icon {
+    gap: 24px;
+  }
+  .text_main li {
+    padding-bottom: 10px;
+  }
+  #footer .bi {
+    width: 16px;
+    height: 16px;
+  }
+  #main_banner {
+    height: 460px;
+  }
+  #main_banner .container {
+    padding: 80px 80px 80px 330px;
+  }
+  #main_banner .info_part {
+    padding: 36px 46px;
+  }
+  #main_banner .text_infa h2 {
+    font-size: 17px;
+  }
+  #main_banner .text_infa p {
+    padding-top: 20px;
+    font-size: 13px;
+  }
+  #main_banner .style_b {
+    padding: 6px 18px;
+    font-size: 13px;
+  }
+  #main_banner .button_ab_us {
+    padding-top: 93px !important;
+  }
+  #tabs_abUs {
+    height: 427.3px;
+  }
+  #tabs_abUs .container {
+    padding: 46px 36px 46px 36px;
+  }
+  .gaps_t {
+    gap: 59px;
+    padding-top: 51px;
+  }
+  .gaps {
+    margin-bottom: 16px;
+  }
+  #tabs_abUs h2 {
+    font-style: 20px;
+    padding-top: 36px;
+  }
+  #tabs_abUs h4 {
+    font-size: 13px;
+  }
+  #tabs_abUs p {
+    font-size: 11px;
+  }
+  #tabs_abUs .fon {
+    background-color: #F9F9F9;
+    padding: 18px;
+  }
+  #products_few {
+    height: 1100px;
+  }
+  #products_few .container {
+    margin: 0px !important;
+    padding: 0px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #products_few .main_div {
+    gap: 60px;
+  }
+  #products_few .gaps_cards {
+    gap: 95px;
+  }
+  .info img {
+    width: 300px;
+    height: 375px;
+  }
+  .info h5 {
+    font-size: 16px;
+  }
+  .info p {
+    font-size: 13px;
+  }
+  #products_few .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #products_few .gap_but_colection {
+    padding: 64px 270px 56px 270px;
+  }
+  #products_few_item {
+    height: 1100px;
+  }
+  #products_few_item .container {
+    margin: 0px !important;
+    padding: 0px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #products_few_item .main_div {
+    gap: 60px;
+  }
+  #products_few_item .gaps_cards {
+    gap: 95px;
+  }
+  .info img {
+    width: 300px;
+    height: 375px;
+  }
+  .info h5 {
+    font-size: 16px;
+  }
+  .info p {
+    font-size: 13px;
+  }
+  #products_few_item .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #products_few_item .gap_but_colection {
+    padding: 64px 270px 56px 270px;
+  }
+  #armchair {
+    height: 360px;
+  }
+  #armchair .container {
+    margin: 0px !important;
+    padding: 0px 36px 0px 36px;
+    max-width: 2560px;
+  }
+  #armchair .main_gap {
+    gap: 14px;
+  }
+  .height_text {
+    height: 320px;
+  }
+  #armchair .height_col2 img {
+    height: 320px !important;
+    width: 341px !important;
+  }
+  #width_col {
+    width: 341px !important;
+  }
+  #armchair .move_div {
+    padding: 40px;
+  }
+  .move_div h2 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    padding-bottom: 12px;
+  }
+  .move_div p {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .button_div {
+    padding-top: 100px;
+  }
+  .button_div button {
+    background-color: rgba(249, 249, 249, 0.1490196078);
+    padding: 10px 24px;
+    font-size: 11px;
+  }
+  #top_bl_prod {
+    height: 209.6px;
+  }
+  #top_bl_prod .container {
+    margin: 0px !important;
+    padding: 140px 500px 36px 80px;
+  }
+  .text_info_prod h1 {
+    font-size: 28px;
+  }
+  #products_few_3_0 .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px !important;
+  }
+  #products_few_3_0 .gaps_cards {
+    gap: 95px;
+  }
+  #products_few_2_0 {
+    height: 930px;
+  }
+  .pad_sm {
+    height: 1110px !important;
+  }
+  #products_few_2_0 .container {
+    margin: 0px !important;
+    padding: 28px 36px 0px 36px;
+    max-width: 2560px !important;
+  }
+  #products_few_2_0 .gap_but_colection {
+    padding: 64px 270px 56px 270px;
+  }
+  #products_few_2_0 .button_collection {
+    padding: 13px 28px;
+    background-color: rgb(236, 236, 236);
+    font-size: 14px;
+  }
+  #products_few_2_0 .main_div {
+    gap: 20px;
+  }
+  #products_few_2_0 .gaps_cards {
+    gap: 95px;
+  }
+  #filters_prod .cont_sm {
+    display: none;
+  }
+  #filters_prod {
+    height: 72px;
+  }
+  #filters_prod .container {
+    padding: 24px 38px;
+    margin: 0px !important;
+    max-width: 2560px !important;
+  }
+  #filters .pad_prod {
+    background-color: #aeaeae;
+  }
+  .gaps_prod_topBl {
+    gap: 26px;
+  }
+  .pad_prod p {
+    margin: 0px !important;
+    padding-right: 8px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #2A254B;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .pad_prod svg {
+    margin-top: 4px;
+    width: 13px;
+    height: 13px;
+  }
+  #item {
+    height: 500px;
+  }
+  #item .container {
+    padding: 50px 50px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  .sizes {
+    width: 320px;
+    height: 400px;
+  }
+  .text_table {
+    padding-top: 18px;
+  }
+  .text_item {
+    width: 350px;
+  }
+  #item .move_block {
+    padding: 0px 35px;
+  }
+  .zagolovok h2 {
+    font-size: 16px;
+  }
+  .zagolovok p {
+    font-size: 14px;
+  }
+  .horizontal {
+    width: 218px;
+    border-top: #c9c6d1 2px solid;
+  }
+  .main_text h5 {
+    font-size: 10px;
+    padding-bottom: 14px;
+  }
+  .main_text p {
+    font-size: 10px;
+  }
+  .tabel {
+    padding-bottom: 0px;
+  }
+  .tabel h5 {
+    padding-top: 16px;
+    font-size: 10px;
+  }
+  .main_tabel p {
+    font-size: 10px;
+  }
+  .vertical {
+    height: 34px;
+    border-left: 2px solid #c9c6d1;
+    margin: 28px 30px 8px 30px;
+  }
+  .input_block {
+    padding-bottom: 18px;
+  }
+  .input_block p {
+    font-size: 10px;
+  }
+  .imitation_button {
+    padding: 8px 12px;
+    background-color: #fff;
+    width: 92px;
+  }
+  .imitation_button p {
+    font-size: 13px;
+  }
+  .imitation_button svg {
+    margin-top: 6px;
+    color: #b8b8b8;
+  }
+  .button1 {
+    padding: 8px 24px;
+    font-size: 10px;
+  }
+  .buttons {
+    gap: 16px;
+  }
+  .button2 {
+    padding: 8px 24px;
+    font-size: 10px;
+  }
+  #cart_body {
+    height: 629px;
+  }
+  #cart_body .container {
+    padding: 40px 70px 30px 70px;
+  }
+  #cart_body h2 {
+    font-size: 24px;
+    padding-bottom: 20px;
+  }
+  .table th {
+    font-size: 16px;
+  }
+  .pad_colon h4 {
+    font-size: 14px;
+  }
+  .pad_colon .p1 {
+    font-size: 11px;
+  }
+  .pad_colon .p2 {
+    font-size: 14px;
+  }
+  .move_td2 p {
+    font-size: 14px;
+  }
+  .style_b {
+    padding: 14px 30px;
+    font-size: 14px;
+  }
+  .p3 {
+    font-size: 12px;
+  }
+  .subtotal h4 {
+    font-size: 18px;
+  }
+  .subtotal span {
+    font-size: 21px;
+  }
+}
+@media (max-width: 425px) {
+  #top_mess {
+    background-color: #2A254B;
+    height: 41px !important;
+  }
+  #top_mess .container {
+    padding: 10px 50px !important;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #top_mess p {
+    font-size: 9px;
+  }
+  #top_mess .bi {
+    width: 12px;
+    height: 12px;
+  }
+  #menu_topt .nav-link {
+    font-weight: 400;
+    font-size: 13px;
+    color: #726E8D;
+  }
+  #bot_nav .container {
+    padding: 20px 20px;
+    margin: 0px 0px !important;
+    max-width: 1440px;
+  }
+  .text {
+    gap: 18px;
+  }
+  .text_main {
+    gap: 20px;
+  }
+  #bot_nav .text p {
+    margin: 0px !important;
+    color: #726E8D;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Satoshi", sans-serif;
+  }
+  #text_bl {
+    height: 260px;
+  }
+  #text_bl .container {
+    padding: 20px 30px;
+  }
+  #text_bl .text_style {
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 33px;
+    text-align: center;
+  }
+  #two_ColsRight {
+    height: 720px;
+  }
+  #two_ColsRight .col_one {
+    height: 370px;
+  }
+  #two_ColsRight .col_two {
+    height: 350px;
+  }
+  #move {
+    padding: 30px 24px 0px 24px;
+  }
+  .butt {
+    padding-top: 50px;
+  }
+  #two_ColsRight .style_but {
+    padding: 10px 125px;
+    font-size: 14px;
+  }
+  .text_info h3 {
+    color: #2A254B;
+    font-size: 18px;
+  }
+  .text_info .p1 {
+    margin-bottom: 0px !important;
+    padding-bottom: 25px;
+  }
+  .text_info p {
+    color: #505977;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs {
+    height: 789px;
+  }
+  #tabs .container {
+    padding: 0px 24px 36px 24px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  .gaps_t {
+    gap: 36px;
+    padding-top: 36px;
+  }
+  .gaps {
+    margin-bottom: 14px;
+  }
+  #tabs h2 {
+    padding-top: 48px;
+    color: #2A254B;
+    font-style: 20px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  #tabs .bi {
+    color: #2A254B;
+    width: 24px;
+    height: 24px;
+  }
+  #tabs h4 {
+    color: #2A254B;
+    font-weight: 500;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
+  }
+  #tabs p {
+    color: #2A254B;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 14px;
+  }
+  #tabs_two {
+    height: 630px;
+  }
+  #tabs_two .container {
+    padding: 0px 24px 0px 24px;
+    margin: 0px !important;
+    max-width: 1440px;
+  }
+  #forms {
+    height: 370px;
+    background-image: url("../../image_index/fon_form.jpeg");
+    background-size: cover;
+    background-position: center;
+  }
+  #forms .container {
+    padding: 24px 24px 0 24px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms h2 {
+    font-size: 24px;
+  }
+  #forms p {
+    font-size: 13px;
+    text-align: start;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+  }
+  .checkedd {
+    gap: 8px;
+  }
+  #forms input#createaccount {
+    height: 13px;
+    width: 13px;
+  }
+  #forms label {
+    font-size: 14px;
+  }
+  .email_section input {
+    padding: 14px 55px 14px 22px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 9px 18px 9px 18px;
+    font-size: 11px;
+  }
+  #forms_two {
+    height: 370px;
+  }
+  #forms_two .container {
+    padding: 24px 24px 0 24px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  #forms_two h2 {
+    font-size: 24px;
+  }
+  #forms_two p {
+    font-size: 13px;
+    text-align: start;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+  }
+  .checkedd {
+    gap: 8px;
+  }
+  #forms_two input#createaccount {
+    height: 13px;
+    width: 13px;
+  }
+  #forms_two label {
+    font-size: 14px;
+  }
+  .email_section input {
+    padding: 14px 55px 14px 22px;
+    border: none;
+  }
+  .email_section input::-moz-placeholder {
+    font-size: 14px;
+  }
+  .email_section input::placeholder {
+    font-size: 14px;
+  }
+  .email_section .buttt {
+    padding: 9px 18px 9px 18px;
+    font-size: 11px;
+  }
+  #footer {
+    height: 880px;
+    background-color: #2A254B;
+  }
+  #footer .container {
+    padding: 38px 24px 0 24px;
+  }
+  #footer .gapss {
+    gap: 30px;
+  }
+  #footer .text_main p {
+    font-size: 15px;
+  }
+  #footer .text_main ul {
+    font-size: 13px;
+  }
+  #footer li {
+    font-size: 13px;
+  }
+  .email_sec input {
+    padding: 10px 80px 12px 22px;
+  }
+  .email_sec input::-moz-placeholder {
+    font-size: 11px;
+  }
+  .email_sec input::placeholder {
+    font-size: 11px;
+  }
+  .email_sec .buttt_t {
+    padding: 6px 10px;
+    font-size: 10px;
+  }
+  #footer .hr {
+    border-top: #4E4D93 solid 3px;
+    margin: 0px !important;
+  }
+  #footer .style_text {
+    font-size: 11px;
+  }
+  #footer .paddings {
+    padding-top: 25px;
+  }
+  #footer .gaps_icon {
+    gap: 14px;
+  }
+  .text_main li {
+    padding-bottom: 10px;
+  }
+  #footer .bi {
+    width: 14px;
+    height: 14px;
+  }
+  .pad_div {
+    padding-top: 20px;
+  }
+  #main_banner {
+    height: 425.3px;
+  }
+  #main_banner .container {
+    padding: 80px 24px 80px 24px;
+  }
+  #main_banner .info_part {
+    padding: 24px 34px;
+  }
+  #main_banner .text_infa h2 {
+    font-size: 17px;
+    text-align: center;
+  }
+  #main_banner .text_infa p {
+    padding-top: 20px;
+    font-size: 13px;
+    text-align: center;
+  }
+  #main_banner .style_b {
+    padding: 6px 70px;
+    font-size: 12px;
+  }
+  #main_banner .button_ab_us {
+    padding-top: 83px !important;
+    padding-left: 20px;
+  }
+  #tabs_abUs {
+    height: 880px;
+  }
+  #tabs_abUs .container {
+    padding: 46px 24px 46px 24px;
+  }
+  #products_few .zagol {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color: #2A254B;
+    padding: 40px 0px;
+    margin: 0px !important;
+  }
+  #products_few {
+    height: 634px;
+  }
+  #products_few .container {
+    margin: 0px !important;
+    padding: 0px 24px 0px 24px;
+    max-width: 2560px;
+  }
+  #products_few .main_div {
+    gap: 16px;
+  }
+  #products_few .gaps_cards {
+    gap: 40px;
+  }
+  .info img {
+    width: 143px;
+    height: 181px;
+  }
+  .info h5 {
+    font-size: 14px;
+  }
+  .info p {
+    font-size: 11px;
+  }
+  #products_few .button_collection {
+    padding: 9px 22px;
+    background-color: rgb(236, 236, 236);
+    font-size: 12px;
+  }
+  #products_few .gap_but_colection {
+    padding: 44px 100px 44px 100px;
+  }
+  #products_few_item .zagol {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color: #2A254B;
+    padding: 40px 0px;
+    margin: 0px !important;
+  }
+  #products_few_item {
+    height: 634px;
+  }
+  #products_few_item .container {
+    margin: 0px !important;
+    padding: 0px 24px 0px 24px;
+    max-width: 2560px;
+  }
+  #products_few_item .main_div {
+    gap: 16px;
+  }
+  #products_few_item .gaps_cards {
+    gap: 40px;
+  }
+  .info img {
+    width: 143px;
+    height: 181px;
+  }
+  .info h5 {
+    font-size: 14px;
+  }
+  .info p {
+    font-size: 11px;
+  }
+  #products_few_item .button_collection {
+    padding: 9px 22px;
+    background-color: rgb(236, 236, 236);
+    font-size: 12px;
+  }
+  #products_few_item .gap_but_colection {
+    padding: 44px 100px 44px 100px;
+  }
+  #armchair {
+    height: 630px;
+  }
+  #armchair .container {
+    margin: 0px !important;
+    padding: 10px 24px 0px 24px;
+    max-width: 2560px;
+  }
+  #armchair .main_gap {
+    gap: 14px;
+  }
+  .height_text {
+    height: 279.5px;
+  }
+  #armchair .height_col2 img {
+    height: 279.5px !important;
+    width: 327.2px !important;
+  }
+  #width_col {
+    width: 327px !important;
+  }
+  #armchair .height_col2 {
+    height: 289px !important;
+  }
+  #armchair .move_div {
+    padding: 32px;
+  }
+  .move_div h2 {
+    font-size: 20px;
+  }
+  .move_div p {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  .button_div {
+    padding-top: 56px;
+  }
+  .button_div button {
+    background-color: rgba(249, 249, 249, 0.1490196078);
+    padding: 10px 87px;
+    font-size: 11px;
+  }
+  #top_bl_prod {
+    height: 146px;
+  }
+  #top_bl_prod .container {
+    margin: 0px !important;
+    padding: 84px 112px 29px 112px;
+  }
+  .text_info_prod h1 {
+    font-size: 28px;
+  }
+  #products_few_3_0 {
+    height: 695px !important;
+  }
+  #products_few_3_0 .container {
+    margin: 0px !important;
+    padding: 28px 24px 0px 24px;
+    max-width: 2560px !important;
+  }
+  #products_few_3_0 .gaps_cards {
+    gap: 40px;
+  }
+  #products_few_3_0 .button_collection {
+    padding: 13px 20px;
+    background-color: rgb(236, 236, 236);
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color: #2A254B;
+    border: none;
+  }
+  #products_few_3_0 .gap_but_colection {
+    padding: 44px 0 64px 0;
+  }
+  #products_few_2_0 {
+    height: 550px;
+  }
+  .pad_sm {
+    height: 650px !important;
+  }
+  #products_few_2_0 .container {
+    margin: 0px !important;
+    padding: 28px 24px 0px 24px;
+    max-width: 2560px !important;
+  }
+  #products_few_2_0 .gap_but_colection {
+    padding: 44px 100px 44px 100px;
+  }
+  #products_few_2_0 .button_collection {
+    padding: 9px 22px;
+    background-color: rgb(236, 236, 236);
+    font-size: 12px;
+  }
+  #products_few_2_0 .main_div {
+    gap: 20px;
+  }
+  #products_few_2_0 .gaps_cards {
+    gap: 40px;
+  }
+  #filters_prod .mobile-no {
+    display: none;
+  }
+  #filters_prod .cont_sm {
+    display: block;
+  }
+  #item {
+    height: 1000px;
+  }
+  #item .container {
+    padding: 24px 24px;
+    margin: 0px !important;
+    max-width: 2560px;
+  }
+  .sizes {
+    width: 329px;
+    height: 400px;
+  }
+  .text_table {
+    padding-top: 18px;
+  }
+  .text_item {
+    width: 328px;
+    padding-top: 24px;
+  }
+  #item .move_block {
+    padding: 0px 0px;
+  }
+  .zagolovok h2 {
+    font-size: 24px;
+  }
+  .zagolovok p {
+    font-size: 20px;
+  }
+  .horizontal {
+    width: 329px;
+    border-top: #c9c6d1 2px solid;
+  }
+  .main_text h5 {
+    font-size: 16px;
+    padding-bottom: 14px;
+  }
+  .main_text p {
+    font-size: 14px;
+  }
+  .tabel {
+    padding-bottom: 0px;
+  }
+  .tabel h5 {
+    padding-top: 16px;
+    font-size: 16px;
+  }
+  .main_tabel p {
+    font-size: 14px;
+  }
+  .vertical {
+    height: 34px;
+    border-left: 2px solid #c9c6d1;
+    margin: 28px 30px 8px 30px;
+  }
+  .input_block {
+    padding-bottom: 18px;
+  }
+  .input_block p {
+    font-size: 16px;
+  }
+  .imitation_button {
+    padding: 8px 12px;
+    background-color: #fff;
+    width: 329px;
+  }
+  .imitation_button p {
+    font-size: 13px;
+  }
+  .imitation_button svg {
+    margin-top: 6px;
+    color: #b8b8b8;
+  }
+  .button1 {
+    padding: 8px 24px;
+    font-size: 13px;
+  }
+  .buttons {
+    gap: 16px;
+  }
+  .button2 {
+    padding: 8px 24px;
+    font-size: 13px;
+  }
+  #cart_body {
+    height: 629px;
+  }
+  #cart_body .container {
+    padding: 40px 24px 30px 24px;
+  }
+  #cart_body h2 {
+    font-size: 22px;
+    padding-bottom: 20px;
+  }
+  .table th {
+    font-size: 16px;
+  }
+  #cart_body .td2 {
+    width: 60px !important;
+  }
+  .pad_colon {
+    padding: 12px 0px 12px 16px;
+  }
+  .pad_colon h4 {
+    font-size: 14px;
+  }
+  .pad_colon .p1 {
+    font-size: 11px;
+  }
+  .pad_colon .p2 {
+    font-size: 14px;
+  }
+  .move_td2 p {
+    font-size: 14px;
+  }
+  .style_b {
+    padding: 14px 30px;
+    font-size: 14px;
+    width: 327.2px;
+  }
+  .p3 {
+    font-size: 12px;
+  }
+  .subtotal h4 {
+    font-size: 18px;
+  }
+  .subtotal span {
+    font-size: 21px;
+  }
+  .mobile-no {
+    display: none;
+  }
+}/*# sourceMappingURL=main.css.map */

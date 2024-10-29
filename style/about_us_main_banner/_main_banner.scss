@@ -1,0 +1,47 @@
+#main_banner{
+    height: 703px;
+    background-image: url('../../about_us/fon.jpeg');
+    
+    background-size: cover;
+    background-position: center;
+}
+
+#main_banner .container{
+    padding: 130px  80px 130px 730px;
+    margin: 0px !important;
+    max-width: 2560px;
+}
+
+#main_banner .info_part{
+    padding: 46px  56px ;
+    background-color: #fff;
+}
+
+
+#main_banner .text_infa h2{
+    font-size: 32px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .text_infa p{
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .style_b{
+  
+    border:none;
+    padding:16px 32px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #2A254B;
+    background-color: #F9F9F9;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+#main_banner .button_ab_us{
+    padding-top: 173px !important;
+}

@@ -1,0 +1,91 @@
+#footer{
+    height: 430px;
+    background-color: #2A254B;
+}
+
+
+#footer .container{
+    padding: 58px 82px 0 83px;
+    margin: 0px !important;
+    max-width: 2560px;
+}
+
+#footer .gapss{
+    gap:109px;
+}
+
+#footer .text_main p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    padding-bottom: 15px;
+    margin: 0px !important;
+}
+
+#footer .text_main ul{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    text-decoration: none;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+#footer  li{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    list-style-type: none;
+}
+
+.email_sec  input{
+    padding: 17px 360px 17px 32px;
+    border: none;
+    background-color: #4A4566;
+}
+
+
+.email_sec  input::placeholder{
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
+    color: #fdfdfd;
+}
+
+.email_sec .buttt_t{
+    padding: 8px 18px;
+    background-color: #ffffff;
+    color:#2A254B;
+    border:none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+
+#footer .hr{
+    border-top: #4E4D93 solid 4px;
+    margin: 0px !important;
+}
+
+.pad_div{
+    padding-top: 79px;
+}
+
+#footer .style_text{
+    color:white ;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+#footer .paddings{
+    padding-top: 33px;
+}
+
+#footer .gaps_icon{
+    gap: 24px;
+}
+
+.text_main li{
+    padding-bottom: 10px;
+}

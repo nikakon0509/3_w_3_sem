@@ -1,0 +1,136 @@
+#item{
+    height: 780px;
+    background-color: #eeeeee;
+}
+
+#item .container{
+    padding: 50px 80px;
+    margin: 0px !important;
+    max-width: 2560px;
+}
+
+
+#item  .move_block{
+    padding: 25px 0px 25px 65px;
+}
+
+.zagolovok h2{
+    font-size: 36px;
+    font-weight: 300;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+}
+
+.zagolovok p{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+}
+
+.horizontal{
+    width: 518px;
+    border-top: #c9c6d1 2px solid;
+}
+
+.main_text h5{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    margin: 0px !important;
+    padding-bottom: 14px;
+}
+
+.main_text p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    margin: 0px !important;
+}
+
+.tabel{
+    padding-bottom: 40px;
+}
+
+.tabel h5{
+    padding-top: 36px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    margin: 0px !important;
+}
+
+.main_tabel p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    
+}
+
+.vertical{
+    height: 44px;
+    border-left: 2px solid #c9c6d1;
+    margin: 8px 50px 8px 50px;
+}
+
+.text_table{
+    padding-top: 24px;
+}
+
+.input_block{
+    padding-bottom: 48px;
+}
+
+.input_block p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    
+}
+
+
+.imitation_button{
+    padding: 12px 16px;
+    background-color: #fff;
+    width: 122px;
+}
+
+.imitation_button p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Satoshi', sans-serif;
+    color:#2A254B;
+    margin: 0px !important;
+}
+
+.imitation_button svg{
+    margin-top: 6px;
+    color:#b8b8b8;
+}
+
+.button1{
+    padding: 16px 32px;
+    background-color: #2A254B;
+    border: none;
+    color:white;
+    font-weight: 300;
+    font-family: 'Satoshi', sans-serif;
+}
+
+.buttons{
+    gap:16px;
+}
+
+.button2{
+    padding: 16px 32px;
+    background-color: #ffffff;
+    border: none;
+    color:rgb(0, 0, 0);
+    font-weight: 300;
+    font-family: 'Satoshi', sans-serif;
+}

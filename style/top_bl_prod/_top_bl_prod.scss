@@ -1,0 +1,20 @@
+#top_bl_prod{
+    height: 209px;
+    background-image: url('../../product_image/fon.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#top_bl_prod .container{
+    margin: 0px !important;
+    padding: 128px 1154px  36px 80px;
+    max-width: 2560px !important;
+}
+
+.text_info_prod h1{
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Red Hat Display", sans-serif;
+    color:#ffffff;
+    margin: 0px !important;
+}
